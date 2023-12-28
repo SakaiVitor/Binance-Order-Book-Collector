@@ -21,7 +21,7 @@ Para executar este projeto, você precisará do .NET Core instalado em seu ambie
 Install-Package Newtonsoft.Json
 ```
 
-##Uso
+## Uso
 Para executar o coletor, basta executar o comando a seguir no terminal (assegure-se de estar no diretório do projeto):
 
 ```bash
